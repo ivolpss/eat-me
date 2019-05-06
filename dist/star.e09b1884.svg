@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="17px" viewBox="0 0 98 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>star</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="material" font-size="20" font-weight="normal">
+        <g id="Partner" transform="translate(-244.000000, -386.000000)">
+            <g id="r" transform="translate(16.000000, 236.000000)">
+                <g id="r1">
+                    <g id="star" transform="translate(227.000000, 149.000000)">
+                        <text fill="#F8E71C">
+                            <tspan x="0" y="17"></tspan>
+                        </text>
+                        <text fill="#F8E71C">
+                            <tspan x="20" y="17"></tspan>
+                        </text>
+                        <text fill="#F8E71C">
+                            <tspan x="40" y="17"></tspan>
+                        </text>
+                        <text fill="#F8E71C">
+                            <tspan x="60" y="17"></tspan>
+                        </text>
+                        <text fill="#9B9B9B">
+                            <tspan x="80" y="17"></tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,48 @@
+.map {
+    width: 100%;
+    height: 100%;
+    background-image: url(../assets/images/route.svg);
+
+    &__filtre {
+        width: 100%;
+        height: 100%;
+        background: rgba($color: white, $alpha: 0.6);
+
+        &-statusmap {
+            width: 90%;
+            display: block;
+            margin: 0 auto;
+            padding-top: 18px;
+        }
+
+        &-titlefiltre {
+            font-size: 40pt;
+            font-weight: bold;
+            color: #4A4A4A;
+            margin-top: 30px;
+            margin-left: 16px;
+        }
+
+        &-btnmap {
+            width: 343px;
+            height: 48px;
+            display: flex;
+            background: white;
+            border-radius: 30px;
+            margin: 24px auto;
+            box-shadow: 1px 1px 5px rgba($color: black, $alpha: 0.2);
+
+            &-descmap {
+                font-size: 16px;
+                font-weight: lighter;
+                color: rgba($color: #4A4A4A, $alpha: 0.5);
+                margin-left: 32px;
+                padding-top: 14px;
+            }
+
+            &-imgsend {
+                margin-left: 125px;
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>partner-green</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Partner" transform="translate(-122.000000, -745.000000)">
+            <g id="tab-bar" transform="translate(0.000000, 738.000000)">
+                <g id="partner-green" transform="translate(121.000000, 7.000000)">
+                    <circle id="Ovalback3" fill="#54A229" cx="23" cy="15" r="15"></circle>
+                    <text id="Partner" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="14" font-weight="normal" fill="#54A229">
+                        <tspan x="0" y="43">Partner</tspan>
+                    </text>
+                    <text id="img-partner" stroke="#FFFFFF" fill="#FFFFFF" font-family="Ionicons" font-size="14" font-weight="400">
+                        <tspan x="17" y="20"></tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

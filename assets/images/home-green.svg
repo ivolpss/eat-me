@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="44px" viewBox="0 0 35 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>home-green</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-33.000000, -745.000000)">
+            <g id="tab-bar" transform="translate(0.000000, 738.000000)">
+                <g id="home-green" transform="translate(32.000000, 7.000000)">
+                    <circle id="Ovalback4" fill="#54A229" cx="18" cy="15" r="15"></circle>
+                    <text id="Home" font-family="SFCompactDisplay-Regular, SF Compact Display" font-size="14" font-weight="normal" fill="#54A229">
+                        <tspan x="0" y="43">Home</tspan>
+                    </text>
+                    <text id="img-home" fill="#FFFFFF" font-family="simple-line-icons" font-size="14" font-weight="normal">
+                        <tspan x="11" y="21"></tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
